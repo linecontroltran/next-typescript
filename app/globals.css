@@ -26,3 +26,7 @@ body {
     text-wrap: balance;
   }
 }
+
+main {
+  overflow-y: auto;
+}
